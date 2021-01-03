@@ -1,4 +1,4 @@
 source "http://rubygems.org"
 gem "sass"
 
-ruby "2.7.2"
+ruby "2.6.3"
